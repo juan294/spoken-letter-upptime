@@ -3,7 +3,7 @@ repo: spoken-letter-upptime
 
 sites:
   - name: Spoken Letter (Website)
-    url: https://spokenletter.com
+    url: https://spokenletter.com/api/health
     method: GET
     expectedStatusCode: 200
 
