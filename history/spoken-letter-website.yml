@@ -1,7 +1,7 @@
 url: https://spokenletter.com/api/health
-status: up
-code: 200
-responseTime: 361
-lastUpdated: 2026-07-13T23:17:04.922Z
+status: down
+code: 503
+responseTime: 231
+lastUpdated: 2026-07-14T05:30:16.254Z
 startTime: 2026-06-29T13:24:13.006Z
 generator: Upptime <https://github.com/upptime/upptime>
