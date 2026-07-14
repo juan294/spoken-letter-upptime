@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spokenletter.com.ico",
     "slug": "spoken-letter-website",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 361,
-    "timeWeek": 688,
-    "timeMonth": 725,
-    "timeYear": 725,
-    "dailyMinutesDown": {}
+    "uptime": "98.01%",
+    "uptimeDay": "70.23%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
+    "time": 686,
+    "timeDay": 345,
+    "timeWeek": 610,
+    "timeMonth": 686,
+    "timeYear": 686,
+    "dailyMinutesDown": {
+      "2026-07-14": 429
+    }
   },
   {
     "name": "Audio Worker Health",
