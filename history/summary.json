@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/spokenletter.com.ico",
     "slug": "spoken-letter-website",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.08%",
     "uptimeDay": "70.23%",
     "uptimeWeek": "95.75%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.01%",
-    "time": 686,
-    "timeDay": 345,
-    "timeWeek": 610,
-    "timeMonth": 686,
-    "timeYear": 686,
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
+    "time": 682,
+    "timeDay": 423,
+    "timeWeek": 437,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2026-07-14": 429
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1471,
-    "timeDay": 182,
-    "timeWeek": 1989,
-    "timeMonth": 1471,
-    "timeYear": 1471,
+    "time": 1400,
+    "timeDay": 190,
+    "timeWeek": 1382,
+    "timeMonth": 1400,
+    "timeYear": 1400,
     "dailyMinutesDown": {}
   }
 ]
