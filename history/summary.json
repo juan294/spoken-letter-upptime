@@ -4,21 +4,22 @@
     "url": "https://spokenletter.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/spokenletter.com.ico",
     "slug": "spoken-letter-website",
-    "status": "up",
-    "uptime": "98.36%",
+    "status": "down",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "98.36%",
-    "time": 558,
-    "timeDay": 406,
-    "timeWeek": 432,
-    "timeMonth": 522,
-    "timeYear": 558,
+    "uptimeYear": "98.38%",
+    "time": 551,
+    "timeDay": 341,
+    "timeWeek": 416,
+    "timeMonth": 516,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2026-07-14": 429,
       "2026-07-24": 189,
-      "2026-07-30": 148
+      "2026-07-30": 148,
+      "2026-08-01": 0
     }
   },
   {
